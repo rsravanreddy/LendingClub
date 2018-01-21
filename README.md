@@ -8,7 +8,7 @@
 1. truffle - https://www.npmjs.com/package/truffle/tutorial
 2. Metamask (For running and testing locally)
 3. Ganache (https://github.com/trufflesuite/ganache).
-4. Change ganache port to 8545 or edit truffle.js to default poer 7545
+4. Change ganache port to 8545 or edit truffle.js to default port 7545
 ```
 
 ### Running lending club :
